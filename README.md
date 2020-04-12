@@ -13,7 +13,7 @@ Tecnologias empregadas para o desenvolvimento da Aplicação.
 Essa Api foi desenvolvida para resolver o meu problema, más se alguém tiver o mesmo o problema, está ai o código.
 
 
-Antes de iniciar a aplicação, favor renomear .env.example para .env e o preenchê-lo, não se preoculpe aqui o ensinarei como preenchê-lo.
+Antes de iniciar a aplicação, favor renomear .env.example para .env e o preenchê-lo, não se preoculpe aqui o ensinarei como preenchê-lo. Também é necessário a cópia do .env para um novo arquivo chamado .env.test
 
 Vamos instalar e rodar a nosssa aplicação.
 
@@ -40,5 +40,8 @@ BOARD_ID =<br>
 #Token e Chave para acesso e gravação no Trello, pode ser encontrada no Link https://trello.com/app-key<br>
 APP_TRELLO_KEY=<br>
 APP_TRELLO_TOKEN=<br>
+
+
+
 
 
