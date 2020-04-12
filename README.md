@@ -1,11 +1,13 @@
-Aplicação para monitoramento de API, Verifica se a API  está disponível. Existem algumas particularidades, pois usei para 
-monitorar a quantidade de registros em um determinado serviço.
+<h3>Aplicação para monitoramento de API, Verifica se a API  está disponível. Existem algumas particularidades, pois usei para 
+monitorar a quantidade de registros em um determinado serviço.</h3>
 
 Tecnologias empregadas para o desenvolvimento da Aplicação.
-NodeJS
-Api Trello
-Jest
-Yarn
+  <ul>
+  <li>NodeJS</li>
+    <li>Api Trello</li>
+    <li>Jest</li>
+    <li>Yarn</li>
+  </ul>
 
 
 Essa Api foi desenvolvida para resolver o meu problema, más se alguém tiver o mesmo o problema, está ai o código.
