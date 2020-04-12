@@ -32,13 +32,13 @@ APP_PASSWORD=
 #Configuração do Card no Trello - Essa configuração pode ser encontrada no serviço localhost:3000/trello/infocards, más é necessário infomar os
 dados de token e chave de acesso abaixo.
 
-TOP= top
-IDLIST=
-BOARD_ID =
+TOP= top<br>
+IDLIST=<br>
+BOARD_ID =<br>
 
 
 #Token e Chave para acesso e gravação no Trello, pode ser encontrada no Link https://trello.com/app-key
-APP_TRELLO_KEY=
-APP_TRELLO_TOKEN=
+APP_TRELLO_KEY=<br>
+APP_TRELLO_TOKEN=<br>
 
 
