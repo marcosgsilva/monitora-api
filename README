@@ -1,5 +1,5 @@
-Aplicação para monitoramento de API, verificando se a API ou serviço caiu ou se o serviço está com a
-quantidade de registros correta.
+Aplicação para monitoramento de API, VERIFICA se a API ou serviço está disponível. Existem algumas particularidades, pois usei para 
+monitorar a quantidade de registros em um determinado serviço.
 
 Tecnologias empregadas para o desenvolvimento da Aplicação.
 NodeJS
