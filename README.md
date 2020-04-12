@@ -22,12 +22,12 @@ yarn run cron: para deixar em background a monitoração.
 yarn start: Para rodar o serviço na porta 3000.
 
 
-#APP: Site ou sistema a ser verificado
+#APP: Site ou sistema a ser verificado<br>
 APP_URL=
 
-#Basic Authentitication  - Deve ser informada caso a API tenha autenticação Basic Authentication
-APP_USERNAME=
-APP_PASSWORD=
+#Basic Authentitication  - Deve ser informada caso a API tenha autenticação Basic Authentication<br>
+APP_USERNAME=<br>
+APP_PASSWORD=<br>
 
 #Configuração do Card no Trello - Essa configuração pode ser encontrada no serviço localhost:3000/trello/infocards, más é necessário infomar os
 dados de token e chave de acesso abaixo.
