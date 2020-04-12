@@ -1,4 +1,11 @@
-Aplicação para monitoramento de API, verificando se a API ou serviço caiu ou se o serviço está com a quantidade de registros correta.
+Aplicação para monitoramento de API, verificando se a API ou serviço caiu ou se o serviço está com a
+quantidade de registros correta.
+
+Tecnologias empregadas para o desenvolvimento da Aplicação.
+NodeJS
+Api Trello
+Jest.
+
 
 Essa Api foi desenvolvida para resolver o meu problema, más se alguém tiver o mesmo o problema, está ai o ncódigo.
 
