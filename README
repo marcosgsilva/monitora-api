@@ -1,0 +1,22 @@
+Aplicação para monitoramento de API, verificando se a API ou serviço caiu ou se o serviço está com a quantidade de registros correta.
+
+Essa Api foi desenvolvida para resolver o meu problema, más se alguém tiver o mesmo o problema, está ai o ncódigo.
+
+#APP: Site ou sistema a ser verificado
+APP_URL=
+
+#Basic Authentitication  - Deve ser informada caso a API tenha autenticação Basic Authentication
+APP_USERNAME=
+APP_PASSWORD=
+
+#Configuração do Card no Trello - Essa configuração pode ser encontrada no serviço localhost:3000/trello/infocards, más é necessário infomar os
+dados de token e chave de acesso abaixo.
+
+TOP= top
+IDLIST=
+BOARD_ID =
+
+
+#Token e Chave para acesso e gravação no Trello, pode ser encontrada no Link https://trello.com/app-key
+APP_TRELLO_KEY=
+APP_TRELLO_TOKEN=
